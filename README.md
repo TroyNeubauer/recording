@@ -1,8 +1,8 @@
 
 # recording
 
-Automates switching in/out of recording workflow.
-Ran just before I click record, and I Ctrl+C after clicking stop recording
+Automates switching in/out of my recording workflow.
+I run this just before clicking record, and I Ctrl+C after clicking stop recording
 
 Perform the following:
 1. Start OSKD
